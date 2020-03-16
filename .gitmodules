@@ -1,0 +1,9 @@
+[submodule "themes/hugo-site-test"]
+	path = themes/hugo-site-test
+	url = https://github.com/surajmandalcell/potato-dark.git
+[submodule "themes/classless"]
+	path = themes/classless
+	url = https://github.com/surajmandalcell/potato-dark.git
+[submodule "themes/potato-dark"]
+	path = themes/potato-dark
+	url = https://github.com/surajmandalcell/potato-dark.git
