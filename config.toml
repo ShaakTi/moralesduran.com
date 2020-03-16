@@ -1,9 +1,9 @@
 #Uncomment as needed
 #baseurl = "Your site URL"
 languageCode = "en-us"
-Title = "Hugo site test"
+Title = "Rolando Morales Durán"
 # Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright notice"
+copyright = "&copy; Rolando Morales Durán"
 theme = "potato-dark"
 
 [params]
@@ -11,24 +11,24 @@ theme = "potato-dark"
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
   twitter = "rmoralesduran"
-  facebook = "Your Facebook username"
-  instagram = "Your Instagram username"
+  facebook = "MientrasElTiempo"
+  instagram = "rmoralesduran"
   github = "ShaakTi"
-  gitlab = "Your GitLab username"
-  npm = "Your npm username"
-  codepen = "Your CodePen username"
-  dribbble = "Your Dribbble username"
-  fivehundredpx = "Your 500px username" # 500px
-  flickr = "Your Flickr username"
-  pinterest = "Your Pinterest username"
-  tumblr = "Your Tumblr username"
-  vimeo = "Your Vimeo username"
-  youtube = "Your YouTube username"
-  linkedin = "Your LinkedIn username"
+#  gitlab = "Your GitLab username"
+#  npm = "Your npm username"
+#  codepen = "Your CodePen username"
+#  dribbble = "Your Dribbble username"
+#  fivehundredpx = "Your 500px username" # 500px
+#  flickr = "Your Flickr username"
+#  pinterest = "Your Pinterest username"
+#  tumblr = "Your Tumblr username"
+#  vimeo = "Your Vimeo username"
+#  youtube = "Your YouTube username"
+  linkedin = "moralesduran"
   # Disqus shortname
   # disqus = ""
   # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
+  # ga_api_key = "Your Google Analytics tracking id"
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
   favicon = "/path/to/favicon"
