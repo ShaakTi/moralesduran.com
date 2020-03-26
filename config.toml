@@ -13,7 +13,7 @@ theme = "potato-dark"
   twitter = "rmoralesduran"
   facebook = "MientrasElTiempo"
   instagram = "rmoralesduran"
-  github = "ShaakTi"
+#  github = "ShaakTi"
 #  gitlab = "Your GitLab username"
 #  npm = "Your npm username"
 #  codepen = "Your CodePen username"
@@ -39,13 +39,13 @@ theme = "potato-dark"
     weight = 1
 
 [[menu.main]]
-    name = "About"
+    name = "El Autor"
     url = "/about"
     weight = 2
 
 [[menu.main]]
-    identifier = "theme"
-    name = "Theme"
+    name = "Descargables"
+    url = "/book-assets"
     weight = 3
 
 [related]
